@@ -1,7 +1,11 @@
 Installation
 ====
 The installation process remains the same.
+
+Clone this repository on your local machine.
+
 Only one package has been added to the existing ones: the axios library.
+
 
 Products Grid
 ====
