@@ -1,6 +1,7 @@
 Installation
 ====
 The installation process remains the same.
+Only one package has been added to the existing ones: the axios library.
 
 Products Grid
 ====
